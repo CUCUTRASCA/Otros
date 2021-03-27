@@ -1,4 +1,4 @@
-//https://www.aceptaelreto.com/problem/statement.php?id=124&potw=1
+//Problema nº 124
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
